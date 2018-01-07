@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+a {
+    text-decoration: none;
+}
+* {
+    box-sizing: border-box
+}
+.view-list>a{
+    display: block;
+}
+.App {
+    background-color: #eee;
+}
